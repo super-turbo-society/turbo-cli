@@ -1,6 +1,6 @@
 # turbo-cli
 
-![Turbo logo](https://github.com/super-turbo-society/turbo-cli/assets/740794/4e087cfc-0cdd-4121-8af1-e68b7e33d2f1)
+![Turbo logo](https://github.com/user-attachments/assets/ce242c8a-c191-42d1-94aa-b8f0314929df)
 
 Turbo is a game engine built for making games fast.
 
